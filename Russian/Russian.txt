@@ -979,6 +979,57 @@ ObjectType.TreeFallen = Дерево
 ObjectType.TreeFallen.Desc = Можно добыть бревна.
 ObjectType.TreeFallenTwo = Дерево
 ObjectType.TreeFallenTwo.Desc = Можно добыть бревна.
+ObjectType.AutoMason = Автоматический каменотёс
+ObjectType.AutoMason.Desc = Автоматические каменотёсы обрабатывают камни в каменные блоки.
+ObjectType.CorniTreeSnow = Сосна
+ObjectType.CorniTreeSnow.Desc = Деревья можно срубить, чтобы получить бревна.
+ObjectType.DarkMonolith = Мрачный монолит
+ObjectType.DarkMonolith.Desc = Древний монолит неизвестного происхождения.
+ObjectType.DarkSkeleton = Мрачный скелет
+ObjectType.DarkSkeleton.Desc = Разложившаяся туша большого животного.
+ObjectType.DecoSnowRocks = Маленькие камни
+ObjectType.DecoSnowRocks.Desc = Может быть удалено путем добычи/сборки
+ObjectType.DepotHC5x5 = Склад 5х5 (высокая вместимость)
+ObjectType.DepotHC5x5.Desc = ##Automated ##depots можно использовать для хранения и распределения товаров.
+ObjectType.Floor_Grassland_Ice = Лед
+ObjectType.Floor_Grassland_Ice.Desc = Лед
+ObjectType.Floor_Sand_Water = Песок
+ObjectType.Floor_Sand_Water.Desc = Песок
+##Как лучше?!
+ObjectType.LongInserter = Длинное устройство ввода
+##Как лучше?!
+ObjectType.LongInserter.Desc =  Данные устройства перемещают предметы между конвеерными лентами, ##depots и т.п.
+ObjectType.MoreDepot2x2 = Склад 2x2
+ObjectType.MoreDepot2x2.Desc = ##Automated ##depots можно использовать для хранения и распределения товаров.
+ObjectType.MoreDepot3x3 = Склад 3x3
+ObjectType.MoreDepot3x3.Desc = ##Automated ##depots можно использовать для хранения и распределения товаров.
+ObjectType.MoreDepot4x4 = Склад 4x4
+ObjectType.MoreDepot4x4.Desc = ##Automated ##depots можно использовать для хранения и распределения товаров.
+ObjectType.MoreDepotHC2x2 = Склад 2x2 (высокая вместимость)
+ObjectType.MoreDepotHC2x2.Desc = ##Automated ##depots можно использовать для хранения и распределения товаров.
+ObjectType.MoreDepotHC3x3 = Склад 3x3 (высокая вместимость)
+ObjectType.MoreDepotHC3x3.Desc = ##Automated ##depots можно использовать для хранения и распределения товаров.
+ObjectType.MoreDepotHC4x4 = Склад 4x4 (высокая вместимость)
+ObjectType.MoreDepotHC4x4.Desc = ##Automated ##depots можно использовать для хранения и распределения товаров.
+ObjectType.SeaWeed = МорскиеСемена
+ObjectType.SeaWeed.Desc = Подводные растения.
+ObjectType.SnowBench = Скамейка
+ObjectType.SnowBench.Desc = Колонисты могут расслабляться на скамейках, когда устанут.
+ObjectType.SnowMan = Снеговик
+ObjectType.SnowMan.Desc = Наслаждается пейзажем.
+ObjectType.ToolWorkshop = Инструментальная мастерская
+ObjectType.ToolWorkshop.Desc = Позволяет колонистам создавать оружие и инструменты
+ObjectType.TrainFactoryLong = Железнодорожный завод (длинный)
+ObjectType.TrainFactoryLong.Desc = Используется для строительства и обслуживания до трех поездов. Поезда могут быть использованы в ##logsys.
+ObjectType.TrainLocomotive2 = Локомотив
+ObjectType.TrainLocomotive2.Desc = Поезда используются для перевозки тяжелых грузов на дальние расстояния.
+ObjectType.TrainLocomotive3 = Локомотив
+ObjectType.TrainLocomotive3.Desc = Поезда используются для перевозки тяжелых грузов на дальние расстояния.
+ObjectType.TrainStationLong = Железнодорожная станция (длинная)
+ObjectType.TrainStationLong.Desc = Поезда могут останавливаться здесь и автоматически_матически загружаться или выгружаться.
+ObjectType.XmasPresents.Desc = Внутри сюрприз, скорее открывай!
+ObjectType.XmasTree = Рождественское дерево
+ObjectType.XmasTree.Desc = Отпразднуем начало нового года!
 
 # Top right menu =====
 
